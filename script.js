@@ -1,11 +1,14 @@
 const  message = [
-    "luis",
-    "daniel",
-    "luis",
-    "daniel",
-    "luis",
-    "daniel",
-    "luis",
+  "Te amo Muchísimo", 
+  "Gracias por estar en mi vida",
+  "Eres mi persona favorita",
+  "Juntos por siempre",
+  "Tu y yo, para siempre",
+  "Tu sonrisa me ilumina",
+  "Eres lo mejor que me ha pasado",
+  "Cada momento contigo es mágico",
+  "Siempre pienso en ti",
+  "Mi corazon es tuyo",
 ];
 
 function createTextBubble(){
